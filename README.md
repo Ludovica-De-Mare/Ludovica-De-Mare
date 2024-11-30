@@ -1,4 +1,4 @@
-- Hi!I’m @Ludovica-De-Mare.
+- Hi! I’m @Ludovica-De-Mare.
 - I’m interested in physics and economics.
 - On this public page you'll find my Physics Bachelor Research Project (final version of my thesis + Python code used).
 - I attended Groningen University and I did my bachelor thesis at the Van Swinderen Institute for Particel Physics and Gravity.
