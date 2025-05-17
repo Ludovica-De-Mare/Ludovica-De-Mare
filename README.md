@@ -1,5 +1,4 @@
 - Hi! I’m @Ludovica-De-Mare.
-- I’m interested in physics and economics.
 - On this page you'll find my Physics Bachelor Research Project (final version of my thesis + Python code used).
 - I attended Groningen University and I did my bachelor thesis at the Van Swinderen Institute for Particel Physics and Gravity.
 - Data used: CERN, LHC run 2 data.
